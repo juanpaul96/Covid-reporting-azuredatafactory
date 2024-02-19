@@ -1,1 +1,1 @@
-# Covis-reporting-azuredatafactory
+# Covid-reporting-azuredatafactory
