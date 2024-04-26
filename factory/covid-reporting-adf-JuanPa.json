@@ -1,0 +1,9 @@
+{
+	"name": "covid-reporting-adf-JuanPa",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "e1c2ef16-eaf3-4d16-a6e0-2187b192226c",
+		"tenantId": "d633340b-a01b-459c-85ce-8335ddea9287"
+	}
+}
